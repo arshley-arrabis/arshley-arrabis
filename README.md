@@ -1,7 +1,7 @@
 # Hi! I'm Arshley B. Arrabis<br>🎧 Music Enthusiast 🎧<br>🫶 KPOP Lover 🫶
 
 <div align="center">
-  <img src="[https://i.imgur.com/WiNRsGD.gif](https://i.imgur.com/trIGl4E.gif)" height="250" alt="cute welcome gif" />
+  <img src="[https://i.imgur.com/WiNRsGD.gif](https://i.imgur.com/trIGl4E.gif)" height="250" alt="https://i.imgur.com/trIGl4E.gif" />
 </div>
 
 ## 🌐 Socials:
