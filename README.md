@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! Im Arshley B. Arrabis<br>🎧Music Enthusiast🎧<br>🫶KPOP Lover🫶
+# Hi! Im Arshley B. Arrabis<br>🎧Music Enthusiast🎧<br>🫶KPOP Lover🫶
 
 
 ## 🌐 Socials:
