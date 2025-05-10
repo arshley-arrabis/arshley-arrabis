@@ -1,7 +1,5 @@
 # Hi! I'm Arshley B. Arrabis<br>🎧 Music Enthusiast 🎧<br>🫶 KPOP Lover 🫶
 
-![cute welcome gif](https://i.imgur.com/trIGl4E.gif)
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://discordapp.com/users/731125652719140944) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heoswi_chokollis/?hl=en) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshleyninecho@gmail.com) 
 
