@@ -1,3 +1,13 @@
+## 🎓 GitHub Foundations Certification
+
+I earned the *GitHub Foundations* certification issued by [GitHub via Credly](https://www.credly.com/badges/your-badge-id-here).
+
+![GitHub Foundations Certificate](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/filename.png)
+
+🗓️ *Issued:* June 19, 2025  
+📅 *Valid Until:* June 19, 2028  
+🛠️ *Skills:* GitHub Actions · CI/CD · DevOps · Markdown · Branching · Project Management
+
 <br clear="both">
 
 <h1 align="center">Hi! Im Arshley B. Arrabis<br>🎧Music Enthusiast🎧<br>🫶KPOP Lover🫶</h1>
