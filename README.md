@@ -67,13 +67,6 @@
   <img src="https://profile-counter.glitch.me/arshley-arrabis/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="380" src="https://i.imgur.com/E4cedRM.jpeg"  />
-</div>
-
-###
 ## 🎓 GitHub Foundations Certification
 
 I earned the *GitHub Foundations* certification issued by [GitHub via Credly](https://www.credly.com/badges/f59dbf97-2496-4e21-868b-795b061e0ea0/public_url).
@@ -83,3 +76,11 @@ I earned the *GitHub Foundations* certification issued by [GitHub via Credly](ht
 🗓️ *Issued:* June 19, 2025  
 📅 *Valid Until:* June 19, 2028  
 🛠️ *Skills:* GitHub Actions · CI/CD · DevOps · Markdown · Branching · Project Management
+
+###
+
+<div align="center">
+  <img height="380" src="https://i.imgur.com/E4cedRM.jpeg"  />
+</div>
+
+###
