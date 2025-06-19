@@ -78,7 +78,7 @@
 
 I earned the *GitHub Foundations* certification issued by [GitHub via Credly](https://www.credly.com/badges/f59dbf97-2496-4e21-868b-795b061e0ea0/public_url).
 
-![GitHub Foundations Certificate](https://imgur.com/a/fMK7Uxu)
+![GitHub Foundations Certificate](GitHubFoundations_Badge20250619-27-le346m_page-0001.jpg)
 
 🗓️ *Issued:* June 19, 2025  
 📅 *Valid Until:* June 19, 2028  
